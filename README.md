@@ -1,2 +1,16 @@
-# To_Do_App
-To-Do List App  A modern and interactive To-Do List Web App built using HTML, CSS, and JavaScript with smooth animations, glassmorphism UI, and advanced features. This app helps you stay organized with categories, filters, calendar integration, and touch-friendly interactions.  ✨ Features  🎨 Glassmorphism Design – clean, modern, and responsive UI  🌌 Animated Background – floating hover objects with parallax effect  🖐️ Touch & Gesture Support – swipe left to delete, swipe right to complete  🔎 Advanced Filters – by status (All/Active/Completed), category, and due date  🗂️ Categories – organize tasks by custom categories  📅 Calendar View – view tasks by specific dates  💾 Persistent Storage – saves tasks with localStorage  🧼 One-Click Clean Up – clear completed tasks instantly  🚀 Deployment  You can easily deploy this app on GitHub Pages, Netlify, or Vercel.  Clone the repository  Open index.html in your browser OR host it online  📌 Tech Stack  HTML5  CSS3 (Glassmorphism + Animations)  Vanilla JavaScript  💡 Future Enhancements  🔔 Notifications for due tasks  📲 PWA support (installable app with offline access)  🔄 Drag-and-drop task reordering
+# 📌 To-Do App (Deploy Ready)
+
+A modern To-Do List app built with **HTML, CSS, JavaScript**.
+
+## Features
+- Add, complete, delete tasks
+- Categories & due dates
+- Filters (status, search, calendar)
+- Glassmorphism design
+- LocalStorage persistence
+- PWA ready (manifest + favicon)
+
+## 🚀 Deployment
+- Push this repo to GitHub
+- Enable **GitHub Pages** in repo settings
+- Your app will be live at `https://username.github.io/todo-app`
